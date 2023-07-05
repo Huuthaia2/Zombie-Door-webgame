@@ -13046,7 +13046,7 @@
 		showVideo(t = null, e = null) {
 
             console.log("showReward");
-			this.successFunc = t, this.failFunc = e, 
+		this.successFunc = t, this.failFunc = e, 
             this.successFunc && this.successFunc()
             Unity.call("showReward");
             return;
