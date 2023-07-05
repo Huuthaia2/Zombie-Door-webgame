@@ -13059,8 +13059,7 @@
 		adViewed(t) {}
 		InterstitialAdShow() {
             console.log("showInter");
-            Unity.call("showInter");
-            return;
+            Unity.call("showInter"); 
 			E.Instance.showInterstitial()
 		}
 		gamePause() {
@@ -13071,14 +13070,12 @@
 		}
 		showBanner() {
             console.log("showBanner");
-            Unity.call("showBanner");
-            return;
+            Unity.call("showBanner"); 
 			E.Instance.showBanner()
 		}
 		hideBanner() {
             console.log("hideBanner");
-            Unity.call("hideBanner");
-            return;
+            Unity.call("hideBanner"); 
 			E.Instance.hideBanner()
 		}
 		loadExelInfo() {
