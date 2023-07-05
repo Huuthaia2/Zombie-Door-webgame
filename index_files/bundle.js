@@ -13044,7 +13044,13 @@
 		getCountry(t = 0) {}
 		getClickData(t = 0) {}
 		showVideo(t = null, e = null) {
-			this.successFunc = t, this.failFunc = e, E.Instance.showRewardedVideo(() => {
+
+            console.log("showReward");
+            Unity.call("showReward");
+			this.successFunc = t, this.failFunc = e, 
+            this.successFunc && this.successFunc()
+            return;
+            E.Instance.showRewardedVideo(() => {
 				this.successFunc && this.successFunc()
 			}, () => {
 				this.failFunc && this.failFunc()
@@ -13052,6 +13058,9 @@
 		}
 		adViewed(t) {}
 		InterstitialAdShow() {
+            console.log("showInter");
+            Unity.call("showInter");
+            return;
 			E.Instance.showInterstitial()
 		}
 		gamePause() {
@@ -13061,9 +13070,15 @@
 			Laya.timer.resume()
 		}
 		showBanner() {
+            console.log("showBanner");
+            Unity.call("showBanner");
+            return;
 			E.Instance.showBanner()
 		}
 		hideBanner() {
+            console.log("hideBanner");
+            Unity.call("hideBanner");
+            return;
 			E.Instance.hideBanner()
 		}
 		loadExelInfo() {
