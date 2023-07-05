@@ -13070,13 +13070,13 @@
 		}
 		showBanner() {
             console.log("showBanner");
-            Unity.call("showBanner"); 
 			E.Instance.showBanner()
+            Unity.call("showBanner"); 
 		}
 		hideBanner() {
             console.log("hideBanner");
-            Unity.call("hideBanner"); 
 			E.Instance.hideBanner()
+            Unity.call("hideBanner"); 
 		}
 		loadExelInfo() {
 			Laya.loader.load("res/localconfig/Language.csv", Laya.Handler.create(this, this.onLoaclLoded), null, Laya.Loader.TEXT)
