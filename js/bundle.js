@@ -256,13 +256,11 @@
 		hideAsync() {
 			return __awaiter(this, void 0, void 0, function*() {
 				if (this._state != n.PLAYING) throw console.log("No Banner Playing: " + this.getInfo()), p;
-                this._state = n.NONE;
-                
-				// try {
-				// 	console.log("Hide Banner: " + this.getInfo()), yield FBInstant.hideBannerAdAsync(), this._state = n.NONE
-				// } catch (t) {
-				// 	throw console.error("Hide Banner Failed: " + this.getInfo(), t), t
-				// }
+				try {
+					console.log("Hide Banner: " + this.getInfo()), yield FBInstant.hideBannerAdAsync(), this._state = n.NONE
+				} catch (t) {
+					throw console.error("Hide Banner Failed: " + this.getInfo(), t), t
+				}
 			})
 		}
 	}
@@ -487,8 +485,8 @@
 			}) : console.log("暂不支持显示banner"))
 		}
 		hideBanner() {
-            if (this._state != n.PLAYING) throw console.log("No Banner Playing: " + this.getInfo()), p;
             this._state = n.NONE;
+            
 			// window.FBInstant && L.hideBannerAsync().then(() => {}).catch(t => {
 			// 	console.log("隐藏banner失败", t.message)
 			// })
