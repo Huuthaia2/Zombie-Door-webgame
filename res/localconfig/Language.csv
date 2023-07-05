@@ -1,0 +1,1094 @@
+string,string
+语言包的key,语言包value
+id,value
+********************************Chinese,中文********************************
+game_name_C,河马河马
+1_C,猛鬼别敲门
+2_C,查看广告
+3_C,查看
+4_C,宿舍安全须知
+5_C,大礼包
+6_C,不了，谢谢
+7_C,打开
+8_C,关闭
+9_C,驱魔百宝箱
+10_C,关门
+11_C,登录7天可获得
+12_C,已兑换
+13_C,返回主界面
+14_C,知道了
+15_C,获得
+16_C,点击查看
+17_C,去看看
+18_C,猎梦者模式
+19_C,新
+20_C,被猛鬼击杀
+21_C,成功击杀猛鬼
+22_C,领取
+23_C,三倍领取
+24_C,狂暴
+25_C,护盾
+26_C,失败的猛鬼
+27_C,成功的猛鬼
+28_C,继续游戏
+29_C,建筑
+30_C,去购买
+31_C,未拥有
+32_C,加载中
+33_C,开始游戏
+34_C,负
+35_C,幸运转盘
+36_C,猛鬼模式
+37_C,老虎机
+38_C,宿舍
+39_C,第一名
+40_C,猛鬼
+41_C,匹配中
+42_C,已准备
+43_C,准备
+44_C,签到
+45_C,设置
+46_C,声音
+47_C,用户协议
+48_C,震动
+49_C,免费试用
+50_C,8号当铺
+51_C,蜜罐道具
+52_C,升级
+53_C,关、开
+54_C,使用中
+55_C,双倍领取
+56_C,登录签到
+57_C,已领取
+58_C,免费抽奖
+59_C,免费
+60_C,皮肤
+61_C,上床
+62_C,立即挑战
+63_C,未完成
+64_C,加固
+65_C,胜
+66_C,生效中
+67_C,高科技
+68_C,黑科技
+69_C,神级道具
+70_C,你
+71_C,加载游戏资源：
+72_C,不同意
+73_C,同意
+74_C,暂停
+75_C,返回主页将无法获得游戏奖励哦！
+76_C,回主页
+77_C,1.猛鬼来了，进入一间无人的房间，上床
+78_C,2.升级潮湿小床,
+79_C,3.升级初级铁门2,
+80_C,4.升级生硬小床,
+81_C,5.升级标准单人床,
+82_C,6.建造两座辟邪轻弩,
+83_C,7.升级温暖单人床,
+84_C,8.建造两个发霉发电机,
+85_C,9.升级三星单人床,
+86_C,10.拥有一个强化大炮,
+87_C,11.建造挖铜矿
+88_C,去8号当铺买
+89_C,可建造 0/1
+90_C,已建造
+91_C,免费升级
+92_C,门被攻击时，每秒对鬼 造成1%最大生命值的伤害
+93_C,基础
+94_C,赚钱
+95_C,建筑蓝图不足，请到商店购买
+96_C,建筑数量已达上限
+97_C,需要一个
+98_C,该建筑已被摧毁！！！
+99_C,金币、闪电不足，请升级床铺、闪电
+100_C,金币不足，请提升床铺
+101_C,闪电不足，请提升游戏机
+102_C,辟邪轻弩
+103_C,辟邪强弓
+104_C,驱魔重弩
+105_C,驱魔轻炮
+106_C,强化大炮
+107_C,强化钢炮
+108_C,高级重炮
+109_C,高级火焰炮
+110_C,附魔穿甲弹
+111_C,附魔激光弹
+112_C,圣级火焰炮
+113_C,圣级雷霆炮
+114_C,神级炮台
+115_C,破烂小床
+116_C,潮湿小床
+117_C,生硬小床
+118_C,标准单人床
+119_C,温暖单人床
+120_C,豪华单人床
+121_C,三星单人床
+122_C,四星单人床
+123_C,五星单人床
+124_C,至尊大床
+125_C,初级铁门1
+126_C,中级钢门1
+127_C,高级合金门1
+128_C,破旧发电机
+129_C,GBG发电机
+130_C,qs5发电机
+131_C,红盒发电机
+132_C,顶配发电机
+133_C,挖铜矿
+134_C,挖银矿
+135_C,挖金矿
+136_C,挖钻石
+137_C,减速冰箱箱
+138_C,抓猎梦者道刺
+139_C,诛鬼台
+140_C,门维修机
+141_C,防护盾
+142_C,炮台鹰眼
+143_C,炮台加速器
+144_C,攻速加成器
+145_C,攻击力：
+146_C,攻击距离：
+147_C,前置：
+148_C,发霉发电机
+149_C,破旧发电机
+150_C,简陋发电机
+151_C,古董发电机
+152_C,怀旧发电机
+153_C,NSN发电机
+154_C,生产：
+155_C,金币
+156_C,铁门
+157_C,钢门
+158_C,振金门
+159_C,血量：
+160_C,闪电
+161_C,效果：
+162_C,当猎梦者释放技能时，30%几率发出符器，控制3s
+163_C,减缓猎梦者20%攻速
+164_C,100%对逃跑的猎梦者射出一张法网，网住2s
+165_C,门被攻击时，每秒对猎梦者造成1%最大生命值的伤害
+166_C,敌人血量低于20%时 ，直接给予猎梦者10%最大生命值的伤害
+167_C,每秒恢复门2%的血量，没有距离限制
+168_C,当门血量低于30%，产生一个3s无敌的防护罩
+169_C,给予炮台赚钱的能力，取决于塔的等级
+170_C,增加炮台20%攻击范围
+171_C,增加炮台50%攻击速度
+172_C,敌人距离越近，炮台攻速越快
+173_C,驱魔符器
+174_C,抓猎梦者诱捕器
+175_C,暂无广告，请稍后再试
+176_C,获取视频失败
+177_C,今日奖励次数已达上限
+178_C,新版本下载失败
+179_C,更新提示
+180_C,新版本已经准备好，是否重启应用？
+181_C,我
+182_C,已有人，请换～～
+183_C,门已被摧毁！！！
+184_C,猛鬼震撼
+185_C,猛鬼狂暴了
+186_C,猛鬼开启护盾
+187_C,猛鬼逃跑了
+188_C,猛鬼升级：LV.
+189_C,玩家：
+190_C,猛鬼被神秘玩家击败
+191_C,猛鬼被击败
+192_C,技能
+193_C,未解锁
+194_C,猎梦者升级
+195_C,已被淘汰！
+196_C,交易完成！
+197_C,观看广告频繁，稍后再试！
+198_C,猛鬼进入了宿舍楼！
+199_C,您以完成所有任务，请开始尽情体验游戏
+200_C,提示：只有一次使用机会哦!!!
+201_C,摧毁当前建筑，并返回一定的资源。
+202_C,拆除
+203_C,该建筑以达到最高级别
+204_C,挑战3次
+205_C,永久解锁猛鬼模式
+206_C,次之后必得最佳奖励
+207_C,本次获得最佳奖励
+208_C,每日登录可免费抽奖1次
+209_C,加入游戏
+210_C,赢得：
+211_C,安慰奖：
+212_C,拥有：
+213_C,宿舍的人已经入睡，快去吞噬他们的梦境
+214_C,订单处理中，请稍后
+215_C,点击太频繁啦！
+
+
+
+********************************English,英文********************************
+game_name_E,HippoHippo
+1_E,Zombie Knocks Door
+2_E,Watch ads
+3_E,View
+4_E,Dormitory Safety Instructions
+5_E,Big gift
+6_E,No, thanks
+7_E,Open
+8_E,Close
+9_E,Treasure Chest
+10_E,Close
+11_E,Login 7 days to get
+12_E,Redeemed
+13_E,Back to mainpage
+14_E,Got it
+15_E,You receive
+16_E,Tap to view
+17_E,Go and see
+18_E,Zombie mode
+19_E,New
+20_E,has been killed by the zombie
+21_E,Successfully killed the zombie
+22_E,Claim
+23_E,3x claim
+24_E,Rampage
+25_E,Shield
+26_E,Loser zombie
+27_E,Winner zombie
+28_E,Continue
+29_E,Building
+30_E,Go to purchase
+31_E,Not owned
+32_E,Loading
+33_E,Start game
+34_E,Lose
+35_E,Lucky Wheel
+36_E,Zombie mode
+37_E,Slot Machine
+38_E,Dormitory
+39_E,1st place
+40_E,Zombie
+41_E,Matchmaking
+42_E,Ready
+43_E,Get ready
+44_E,Check in
+45_E,Settings
+46_E,Sound effect
+47_E,User agreement
+48_E,Vibrate
+49_E,Free trial
+50_E,Shop
+51_E,Ratel items
+52_E,Upgrade
+53_E,Off, On
+54_E,In use
+55_E,2x Claim
+56_E,Login to check in
+57_E,Claimed
+58_E,Free spin
+59_E,Free
+60_E,Skins
+61_E,Go to bed
+62_E,Challenge now
+63_E,Incomplete
+64_E,Fortify
+65_E,Win
+66_E,Activating
+67_E,High tech
+68_E,Cool tech
+69_E,Premium
+70_E,You
+71_E,Loading game data
+72_E,Not agree
+73_E,Agree
+74_E,Pause
+75_E,You will not get the reward if you go back to mainpage now!
+76_E,Back to mainpage
+77_E,1. The zombie is coming soon. Enter a room that has no one inside and go to the bed.
+78_E,2. Upgrade to 3-Star Bed
+79_E,3. Upgrade to Iron Door 2
+80_E,4. Upgrade to Stiff Bed
+81_E,5. Upgrade to Standard Bed
+82_E,6. Build two Light Crossbows
+83_E,7. Upgrade to Warm Bed
+84_E,8. Build two Moldy Generators
+85_E,9. Upgrade to 3-Star Bed
+86_E,10. Owns a Fortified Cannon
+87_E,11. Build a Bronze Mine
+88_E,Go to buy in shop
+89_E,Buildable
+90_E,Constructed
+91_E,Free upgrade
+92_E,When the door is under attack, dealing damage to the zombie by 1%\n of its max HP every second
+93_E,Basic
+94_E,Resources
+95_E,Not enough building drafts, please go purchase more in shop
+96_E,Max number of the buildings reached
+97_E,Requires:
+98_E,The building has been destroyed
+99_E,Not enough coins or energy. Please upgrade bed and energy device
+100_E,Not enough coins. Please upgrade your bed
+101_E,Not enough energy. Please upgrade your generator
+102_E,Light Crossbow
+103_E,Exorcism Crossbow
+104_E,Heavy Crossbow
+105_E,Exorcism Cannon
+106_E,Fortified Cannon
+107_E,Steel Cannon
+108_E,Advanced Cannon
+109_E,Flame Cannon
+110_E,Armor Piercer
+111_E,Laser Bomb
+112_E,Holy Cannon
+113_E,Thunder Cannon
+114_E,Godlike Cannon
+115_E,Tattered Bed
+116_E,Wet Bed
+117_E,Stiff Bed
+118_E,Standard Bed
+119_E,Warm Bed
+120_E,Deluxe Bed
+121_E,3-Star Bed
+122_E,4-Star Bed
+123_E,5-Star Bed
+124_E,Supreme Bed
+125_E,Iron Door 1
+126_E,Steel Door 1
+127_E,Alloy Door 1
+128_E,Old Generator
+129_E,GBG Generator
+130_E,QS5 generator
+131_E,Redbox Generator
+132_E,Top Generator
+133_E,Copper Mine
+134_E,Silver Mine
+135_E,Gold Mine
+136_E,Diamond Mine
+137_E,Freezing Fridge
+138_E,Zombie Trap
+139_E,Exorcism Console
+140_E,Repair Machine
+141_E,Shield
+142_E,Hawkeye
+143_E,Accelerator
+144_E,ATK Speed Booster
+145_E,ATK:
+146_E,ATK range:
+147_E,Requires:
+148_E,Moldy Generator
+149_E,Old Generator
+150_E,Shabby Generator
+151_E,Antique Generator
+152_E,Classic Generator
+153_E,NSN Generator
+154_E,Production:
+155_E,Coins
+156_E,Iron Door
+157_E,Steel Door
+158_E,Vibranium Door
+159_E,HP:
+160_E,Energy
+161_E,Effect:
+162_E,30% chance to stun facilities for 3 seconds when zombie releases this skill
+163_E,Slows attack speed of the zombie by 20%
+164_E,When zombie flees, traps it for 2 seconds
+165_E,When the door is under attack, dealing damage to the zombie by 1%\n of its max HP every second
+166_E,When zombie's HP is lower than 20%, dealing damage to the zombie\n by 10% of its max HP
+167_E,Restores the door endurance by 2% per second. No distance limit for restoring
+168_E,When the door endurance is lower than 30%, an invincible energy shield will be generated for 3s
+169_E,Turret generates coins when it is attacking, and the amount of generating coins depends on its level
+170_E,Increases the attack range of the turret by 20%
+171_E,Increases turret attack speed by 50%
+172_E,Gets faster attack speed when enemy gets closer
+173_E,Exorcism Artifact
+174_E,Zombie Trap
+175_E,No ads available
+176_E,Failed to play the video
+177_E,Max reward attempts for today reached
+178_E,Failed to download the new version
+179_E,Update notice
+180_E,New version is ready, do you want to restart the app?
+181_E,You
+182_E,There is someone already inside. Please pick another room
+183_E,The door has been destroyed!
+184_E,The zombie is furious
+185_E,The zombie is in rampage
+186_E,The zombie activates a shield
+187_E,The zombie is escaping
+188_E,Zombie has reached: Level 
+189_E,The player:
+190_E,Zombie has been defeated by a mysterious player
+191_E,Zombie has been defeated by 
+192_E,Skills
+193_E,Locked
+194_E,Zombie levels up
+195_E,has been eliminated
+196_E,Trade success
+197_E,Watch ads too frequently, try again later!
+198_E,The zombie has entered the dormitory
+199_E,You have completed all tasks. Please do your best for the game.
+200_E,Reminder: Only one chance to use it!!!
+201_E,Remove the current building and get a certain amount of resources back
+202_E,Remove
+203_E,The building has reached the max level
+204_E,challenge 3 times
+205_E,Permanently unlock ghost mode
+206_E,Best reward after times
+207_E,Best reward this time
+208_E,Log in every day to get 1 free draw
+209_E,join the game
+210_E,You get
+211_E,Consolation prize
+212_E,have：
+213_E,The people in the dorm have fallen asleep, go and devour their dreams
+214_E,Please hold on while the order is being processed
+215_E,Click frequently!
+
+********************************Indonesian,印尼语********************************
+game_name_I,Kuda Nil Kuda Nil
+1_I,Zombi Mengetuk Pintu
+2_I,Tonton iklan
+3_I,Lihat
+4_I,Petunjuk Keamanan Asrama
+5_I,Hadiah besar
+6_I,Tidak, terima kasih
+7_I,Buka
+8_I,Tutup
+9_I,Peti Harta Karun
+10_I,Tutup
+11_I,Login 7 hari untuk dapatkan
+12_I,Ditukar
+13_I,Kembali ke halaman utama
+14_I,Mengerti
+15_I,Kamu menerima
+16_I,Ketuk untuk melihat
+17_I,Ayo lihat
+18_I,Mode zombi
+19_I,Baru
+20_I,telah terbunuh oleh zombi
+21_I,Berhasil membunuh zombi
+22_I,Klaim
+23_I,3x klaim
+24_I,Amukan
+25_I,Perisai
+26_I,Zombi yang kalah
+27_I,Zombi pemenang
+28_I,Lanjutkan
+29_I,Gedung
+30_I,Buka pembelian
+31_I,Tidak dimiliki
+32_I,Memuat
+33_I,Mulai game
+34_I,Kalah
+35_I,Roda Keberuntungan
+36_I,Mode zombi
+37_I,Mesin Slot
+38_I,Asrama
+39_I,Posisi Pertama
+40_I,Zombi
+41_I,Matchmaking
+42_I,Siap
+43_I,Bersiap
+44_I,Check-in
+45_I,Pengaturan
+46_I,Efek suara
+47_I,Persetujuan pengguna
+48_I,Bergetar
+49_I,Uji coba gratis
+50_I,Toko
+51_I,Item ratel
+52_I,Upgrade
+53_I,Nonaktif, Aktif
+54_I,Sedang digunakan
+55_I,2x Klaim
+56_I,Login untuk check-in
+57_I,Diklaim
+58_I,Putaran gratis
+59_I,Gratis
+60_I,Skin
+61_I,Pergi tidur
+62_I,Tantang sekarang
+63_I,Belum selesai
+64_I,Perkuat
+65_I,Menang
+66_I,Mengaktifkan
+67_I,Teknologi tinggi
+68_I,Teknologi keren
+69_I,Premium
+70_I,Kamu
+71_I,memuat data game
+72_I,Tidak setuju
+73_I,Setuju
+74_I,Jeda
+75_I,Kamu tidak akan mendapatkan hadiah jika kembali ke halaman utama sekarang!
+76_I,Kembali ke halaman utama
+77_I,1. Zombi segera datang. Masuk ke ruangan yang tidak ada orang di dalamnya dan pergilah tidur.
+78_I,2. Tingkatkan ke Ranjang Basah
+79_I,3. Tingkatkan ke Gerbang Besi 2
+80_I,4. Tingkatkan ke Ranjang Keras
+81_I,5. Tingkatkan ke Ranjang Standar
+82_I,6. Buat dua Crossbow Ringan
+83_I,7. Tingkatkan ke Ranjang Hangat
+84_I,8. Buat dua Generator Lapuk
+85_I,9. Tingkatkan ke Ranjang Bintang 3
+86_I,10. Memiliki Meriam yang Diperkuat
+87_I,11. Buat Tambang Perunggu
+88_I,Beli di toko
+89_I,Bisa dibangun
+90_I,Dibangun
+91_I,Upgrade gratis
+92_I,Ketika pintu diserang, menimbulkan damage pada zombi sebesar 1%\n dari HP maks-nya setiap detik
+93_I,Dasar
+94_I,Sumber daya
+95_I,Draf gedung tidak cukup, beli lebih banyak di toko
+96_I,Jumlah maks gedung telah tercapai
+97_I,Memerlukan:
+98_I,Gedung telah dihancurkan
+99_I,Koin atau energi tidak cukup. Upgrade ranjang dan perangkat energi
+100_I,Koin tidak cukup. Upgrade ranjang kamu
+101_I,Energi tidak cukup. Upgrade generator kamu
+102_I,Crossbow Ringan
+103_I,Crossbow Pengusir Setan
+104_I,Crossbow Berat
+105_I,Meriam Pengusir Setan
+106_I,Meriam yang Diperkuat
+107_I,Meriam Baja
+108_I,Meriam Tingkat Lanjut
+109_I,Meriam Api
+110_I,Penusuk Zirah
+111_I,Bom Laser
+112_I,Meriam Suci
+113_I,Meriam Guntur
+114_I,Meriam Dewa
+115_I,Ranjang Compang-camping
+116_I,Ranjang Basah
+117_I,Ranjang Keras
+118_I,Ranjang Standar
+119_I,Ranjang Hangat
+120_I,Ranjang Mewah
+121_I,Ranjang Bintang 3
+122_I,Ranjang Bintang 4
+123_I,Ranjang Bintang 5
+124_I,Ranjang Tertinggi
+125_I,Gerbang Besi 1
+126_I,Pintu Baja 1
+127_I,Pintu Logam Campuran 1
+128_I,Generator Tua
+129_I,Generator GBG
+130_I,generator QS5
+131_I,Generator Kotak Merah
+132_I,Generator Teratas
+133_I,Tambang Tembaga
+134_I,Tambang Perak
+135_I,Tambang Emas
+136_I,Tambang Berlian
+137_I,Lemari Es Beku
+138_I,Perangkap Zombi
+139_I,Konsol Pengusir Setan
+140_I,Mesin Perbaikan
+141_I,Perisai
+142_I,Mata Elang
+143_I,Akselerator
+144_I,Penambah Kecepata ATK
+145_I,ATK:
+146_I,Jangkauan ATK
+147_I,Memerlukan:
+148_I,Generator Lapuk
+149_I,Generator Tua
+150_I,Generator Lusuh
+151_I,Generator Antik
+152_I,Generator Klasik
+153_I,Generator NSN
+154_I,Produksi:
+155_I,Koin
+156_I,Gerbang Besi
+157_I,Pintu Baja
+158_I,Pintu Vibranium
+159_I,HP:
+160_I,Energi
+161_I,Efek:
+162_I,30% peluang men-stun fasilitas selama 3 detik ketika zombi melepaskan skill ini
+163_I,Memperlambat kecepatan serang zombi sebesar 20%
+164_I,Ketika zombi kabur, memerangkapnya selama 2 detik
+165_I,Ketika pintu diserang, menimbulkan damage pada zombi sebesar 1%\n dari HP maks-nya setiap detik
+166_I,Ketika HP zombi kurang dari 20%, menimbulkan damage pada zombi\n sebesar 10% dari HP maks-nya
+167_I,Memulihkan daya tahan pintu sebesar 2% per detik. Tidak ada batas jarak untuk pemulihan
+168_I,Ketika daya tahan pintu kurang dari 30%, perisai energi tak terkalahkan akan dihasilkan selama 3 detik
+169_I,Turret menghasilkan koin ketika menyerang dan jumlah koin yang dihasilkan tergantung pada levelnya
+170_I,Meningkatkan jangkauan serangan turret sebesar 20%
+171_I,Meningkatkan kecepatan serang turret sebesar 50%
+172_I,Mendapatkan kecepatan serang yang lebih cepat ketika musuh mendekat
+173_I,Artefak Pengusir Setan
+174_I,Jebakan Zombi
+175_I,Tidak tersedia iklan
+176_I,Gagal memutar video
+177_I,Upaya hadiah maks untuk hari ini mencapai
+178_I,Gagal mengunduh versi baru
+179_I,Perbarui pemberitahuan
+180_I,Versi baru sudah siap, kamu ingin memulai ulang aplikasinya?
+181_I,Kamu
+182_I,Sudah ada seseorang di dalam. Pilih ruangan lain
+183_I,Pintu telah dihancurkan!
+184_I,Zombi marah
+185_I,Zombi mengamuk
+186_I,Zombi mengaktifkan perisai
+187_I,Zombi kabur
+188_I,Zombi sudah mencapai: Level 
+189_I,Pemain:
+190_I,Zombi telah dikalahkan oleh pemain misterius
+191_I,Zombi telah dikalahkan oleh 
+192_I,Skill
+193_I,Terkunci
+194_I,Zombi naik level
+195_I,telah tersingkir
+196_I,Sukses berdagang
+197_I,Menonton iklan terlalu sering, coba lagi nanti!
+198_I,Zombi telah memasuki asrama
+199_I,Kamu telah menyelesaikan semua tugas. Berusahalah sebaik mungkin di game ini.
+200_I,Pengingat: Hanya satu kesempatan untuk menggunakannya!!!
+201_I,Singkirkan gedung saat ini dan dapatkan kembali sejumlah sumber daya tertentu
+202_I,Singkirkan
+203_I,Gedung telah mencapai level maksimum
+204_I,tantangan 3 kali
+205_I,Buka kunci mode hantu secara permanen
+206_I,Hadiah terbaik setelah kali
+207_I,Hadiah terbaik kali ini
+208_I,Login setiap hari untuk mendapatkan 1 undian gratis
+209_I,bergabung dalam permainan
+210_I,Kamu mendapatkan
+211_I,Kamu mendapatkan
+212_I,memiliki：
+213_I,Orang-orang di asrama telah tertidur, pergi dan melahap mimpi mereka
+214_I,Dalam urutan pemrosesan pesanan, harap tunggu
+215_I,Klik sering!
+
+********************************Vietnamese,越南语********************************
+game_name_V,Hà Mã Hà Mã
+1_V,Xác Sống Gõ Cửa
+2_V,Xem QC
+3_V,Xem
+4_V,Hướng dẫn an toàn khu ký túc
+5_V,Túi quà lớn
+6_V,Không, cảm ơn
+7_V,Mở
+8_V,Đóng
+9_V,Rương Bách Bảo
+10_V,Đóng
+11_V,Đăng nhập 7 ngày để nhận
+12_V,Đã quy đổi
+13_V,Quay trang chủ
+14_V,Biết rồi
+15_V,Bạn nhận
+16_V,Nhấn xem
+17_V,Đi xem
+18_V,Chế độ xác sống
+19_V,Mới
+20_V,bị xác sống giết
+21_V,Giết xác sống thành công
+22_V,Nhận
+23_V,Nhận 3x
+24_V,Tàn bạo
+25_V,Khiên
+26_V,Xác sống thua
+27_V,Xác sống thắng
+28_V,Tiếp tục
+29_V,Tòa nhà
+30_V,Đi mua
+31_V,Không sở hữu
+32_V,Đang tải
+33_V,Bắt đầu
+34_V,Thua
+35_V,Vòng Quay May Mắn
+36_V,Chế độ xác sống
+37_V,Máy Lão Hổ
+38_V,Khu ký túc
+39_V,Hạng 1
+40_V,Xác sống
+41_V,Đang ghép đấu
+42_V,Đã chuẩn bị
+43_V,Chuẩn bị
+44_V,Điểm danh
+45_V,Cài đặt
+46_V,Âm thanh
+47_V,Thỏa thuận người dùng
+48_V,Rung
+49_V,Dùng thử miễn phí
+50_V,Cửa Hàng Số 8
+51_V,Vật phẩm ratel
+52_V,Nângcấp
+53_V,Tắt, bật
+54_V,Đang dùng
+55_V,Nhận 2x
+56_V,Đăng nhập điểm danh
+57_V,Đã nhận
+58_V,Lượt quay miễn phí
+59_V,Miễn phí
+60_V,Skin
+61_V,Lên giường
+62_V,Thách đấu ngay
+63_V,Chưa hoàn thành
+64_V,Gia cố
+65_V,Thắng
+66_V,Đang kích hoạt
+67_V,Công nghệ cao
+68_V,Công nghệ đen
+69_V,Vật phẩm thần cấp
+70_V,Bạn
+71_V,Đang tải tài nguyên trò chơi:
+72_V,Không đồng ý
+73_V,Đồng ý
+74_V,Tạm ngừng
+75_V,Bạn sẽ không nhận phần thưởng nếu quay lại trang chủ ngay!
+76_V,Quay trang chủ
+77_V,1. Xác sống sắp tới. Vào một phòng không có người và lên giường
+78_V,2. Nâng cấp lên Giường Nhỏ Ướt
+79_V,3. Nâng cấp lên Cổng Sắt Sơ Cấp 2
+80_V,4. Nâng cấp lên Giường Nhỏ Cứng
+81_V,5. Nâng cấp lên Giường Đơn Tiêu Chuẩn
+82_V,6. Chế tạo 2 Nỏ Hạng Nhẹ
+83_V,7. Nâng cấp lên Giường Đơn Ấm
+84_V,8. Chế tạo 2 Máy Phát Điện Mốc
+85_V,9. Nâng cấp lên Giường Đơn 3 Sao
+86_V,10. Sở hữu 1 Đại Pháo Cường Hóa
+87_V,11. Xây Mỏ Đồng
+88_V,Tới cửa hàng số 8 mua
+89_V,Có thể xay
+90_V,Đã xây
+91_V,Nâng cấp miễn phí
+92_V,Khi cửa bị tấn công, mỗi giây gây sát thương cho xác sống bằng\n1% máu tối đa của nó
+93_V,Cơ bản
+94_V,Tài nguyên
+95_V,Bản vẽ tòa nhà không đủ, mời tới cửa hàng mua thêm
+96_V,Số lượng tòa nhà đã đạt tối đa
+97_V,Yêu cầu
+98_V,Tòa nhà đã bị phá hủy!!!
+99_V,Xu, năng lượng không đủ, hãy nâng cấp giường, máy phát điện
+100_V,Xu không đủ, hãy nâng cấp giường
+101_V,Năng lượng không đủ, hãy nâng cấp máy phát điện
+102_V,Nỏ Hạng Nhẹ
+103_V,Nỏ Trừ Tà
+104_V,Nỏ Hạng Nặng
+105_V,Pháo Trừ Tà
+106_V,Đại Pháo Cường Hóa
+107_V,Pháo Thép Cường Hóa
+108_V,Pháo Cao Cấp
+109_V,Pháo Lửa Cao Cấp
+110_V,Bắn Xuyên Giáp
+111_V,Bom Laser
+112_V,Pháo Thánh Cấp
+113_V,Pháo Điện Thánh Cấp
+114_V,Pháo Thần Cấp
+115_V,Giường Nhỏ Rách
+116_V,Giường Nhỏ Ướt
+117_V,Giường Nhỏ Cứng
+118_V,Giường Đơn Tiêu Chuẩn
+119_V,Giường Đơn Ấm
+120_V,Giường Đơn Xa Hoa
+121_V,Giường Đơn 3 Sao
+122_V,Giường Đơn 4 Sao
+123_V,Giường Đơn 5 Sao
+124_V,Giường Lớn Chí Tôn
+125_V,Cổng Sắt Sơ Cấp 1
+126_V,Cổng Thép Trung Cấp 1
+127_V,Cổng Hợp Kim Cao Cấp 1
+128_V,Máy Phát Điện Cũ
+129_V,Máy Phát Điện GBG
+130_V,Máy Phát Điện QS5
+131_V,Máy Phát Điện Hộp Đỏ
+132_V,Máy Phát Điện Cao Cấp
+133_V,Mỏ Đồng
+134_V,Mỏ Bạc
+135_V,Mỏ Vàng
+136_V,Mỏ Kim Cương
+137_V,Tủ Lạnh
+138_V,Bẫy Xác Sống
+139_V,Máy Trừ Tà
+140_V,Máy Sửa Cổng
+141_V,Khiên
+142_V,Hawkeye
+143_V,Máy Gia Tốc
+144_V,Máy Trợ Lực Công Tốc
+145_V,Tấn công:
+146_V,Cự ly tấn công:
+147_V,Yêu cầu
+148_V,Máy Phát Điện Mốc
+149_V,Máy Phát Điện Cũ
+150_V,Máy Phát Điện Thô Sơ
+151_V,Máy Phát Điện Cũ
+152_V,Máy Phát Điện Kinh Điển
+153_V,Máy Phát Điện NSN
+154_V,Năng suất:
+155_V,Xu
+156_V,Cổng Sắt Sơ Cấp
+157_V,Cổng Thép Trung Cấp
+158_V,Cửa Vibranium
+159_V,Máu:
+160_V,Điện
+161_V,Hiệu quả:
+162_V,Khi xác sống tung kỹ năng, có 30% làm choáng 3 giây
+163_V,Làm chậm 20% tốc độ tấn công của xác sống
+164_V,Khi xác sống bỏ chạy, bắt nó lại 2 giây
+165_V,Khi cửa bị tấn công, mỗi giây gây sát thương cho xác sống bằng\n1% máu tối đa của nó
+166_V,Khi máu kẻ thù dưới 20%, gây sát thương cho xác sống\n10% máu tối đa của nó
+167_V,Mỗi giây hồi phục 2% độ bền cửa, không có hạn chế cự ly
+168_V,Khi độ bền cửa dưới 30%, sinh ra một khiên năng lượng vô địch trong 3 giây
+169_V,Khi tháp pháo tấn công, nó sẽ sinh ra xu, số lượng sản xuất tùy vào cấp độ
+170_V,Tăng phạm vi tấn công của tháp pháo thêm 20%
+171_V,Tăng tốc độ tấn công của tháp pháo thêm 50%
+172_V,Cự ly với kẻ thù càng gần, tốc độ tấn công càng nhanh
+173_V,Cổ Vật Trừ Tà
+174_V,Bẫy Xác Sống
+175_V,Không có quảng cáo
+176_V,Phát video thất bại
+177_V,Đã đạt số lượt phần thưởng tối đa trong hôm nay
+178_V,Tải về phiên bản mới thất bại
+179_V,Thông báo cập nhật
+180_V,Phiên bản mới đã sẵn sàng, bạn có muốn khởi động lại ứng dụng?
+181_V,Bản thân
+182_V,Đã có người, mời đổi
+183_V,Cửa đã bị phá hủy!!!
+184_V,Xác sống phẫn nộ
+185_V,Xác sống bạo loạn rồi
+186_V,Xác sống mở khiên
+187_V,Xác sống trốn rồi
+188_V,Xác sống đạt cấp 
+189_V,Người chơi:
+190_V,Xác sống bị một người chơi bí ẩn đánh bại
+191_V,Xác sống bị đánh bại
+192_V,Kỹ năng
+193_V,Chưa mở khóa
+194_V,Xác sống lên cấp
+195_V,đã bị loại bỏ!
+196_V,Giao dịch thành công
+197_V,Xem QC quá thường xuyên, hãy thử lại sau!
+198_V,Xác sống đã vào khu ký túc
+199_V,Bạn đã hoàn thành hết nhiệm vụ, hãy bắt đầu cố gắng hết sức vì trò chơi
+200_V,Nhắc nhở: Chỉ có một cơ hội để sử dụng nó !!!
+201_V,Xóa tòa nhà hiện tại rồi nhận lại một số lượng tài nguyên nhất định
+202_V,Xóa
+203_V,Tòa nhà đã đạt cấp tối đa
+204_V,thử thách 3 lần
+205_V,Mở khóa vĩnh viễn chế độ ma
+206_V,Phần thưởng tốt nhất sau lần
+207_V,Phần thưởng tốt nhất lần này
+208_V,Đăng nhập mỗi ngày để nhận 1 lượt rút thăm miễn phí
+209_V,tham gia trò chơi
+210_V,Bạn trúng
+211_V,Giải an ủi
+212_V,có：
+213_V,Những người trong ký túc xá đã chìm vào giấc ngủ, đi và mơ mộng của họ
+214_V,Chế độ trật tự, xin chờ
+215_V,Nhấn thường xuyên!
+
+********************************Brazilian,巴西语********************************
+game_name_B,Hipopótamo
+1_B,Zumbi Bate na Porta
+2_B,Assistir aos anúncios
+3_B,Ver
+4_B,Instruções de segurança no dormitório
+5_B,Grande presente
+6_B,Não, obrigado
+7_B,Abrir
+8_B,Fechar
+9_B,Baú de Tesouro
+10_B,Fechar
+11_B,Faça login por 7 dias para obter
+12_B,Resgate realizado
+13_B,Retornar à página principal
+14_B,Entendi
+15_B,Você recebe
+16_B,Toque para visualizar
+17_B,Vá e veja
+18_B,Modo Zumbi
+19_B,Novo
+20_B,foi morto pelo zumbi
+21_B,Matou o zumbi com sucesso
+22_B,Reivindicar
+23_B,Reivindicação x3
+24_B,Fúria
+25_B,Escudo
+26_B,Zumbi perdedor
+27_B,Zumbi de inverno
+28_B,Continuar
+29_B,Prédio
+30_B,Ir comprar
+31_B,Não possui
+32_B,Carregando
+33_B,Iniciar jogo
+34_B,Perdeu
+35_B,Roleta da Sorte
+36_B,Modo Zumbi
+37_B,Máquina Caça-níqueis
+38_B,Dormitório
+39_B,1º lugar
+40_B,Zumbi
+41_B,Conectando
+42_B,Pronto
+43_B,Prepare-se
+44_B,Fazer check-in
+45_B,Configurações
+46_B,Efeito sonoro
+47_B,Acordo do Usuário
+48_B,Vibrar
+49_B,Teste grátis
+50_B,Loja
+51_B,Itens de Texugo-do-mel
+52_B,Melhorar
+53_B,Desativado, Ativado
+54_B,Em uso
+55_B,Reivindicação x2
+56_B,Faça login para fazer check-in
+57_B,Resgatada
+58_B,Giro grátis
+59_B,Grátis
+60_B,Skins
+61_B,Vá para a cama
+62_B,Desafiar agora
+63_B,Não concluída
+64_B,Fortificar
+65_B,Venceu
+66_B,Ativando
+67_B,Alta tecnologia
+68_B,Tecnologia legal
+69_B,Premium
+70_B,Você
+71_B,Carregando dados do jogo
+72_B,Não concordo
+73_B,Concordar
+74_B,Pausar
+75_B,Você não receberá a recompensa se retornar à página principal agora!
+76_B,Retornar à página principal
+77_B,1. O zumbi chegará em breve. Entre em um quarto sem ninguém e vá para a cama.
+78_B,2. Melhore para Cama Molhada
+79_B,3. Melhore para Portão de Ferro 2
+80_B,4. Melhore para Cama Rígida
+81_B,5. Melhore para Cama Padrão
+82_B,6. Construa duas Bestas Leves
+83_B,7. Melhore para Cama Quente
+84_B,8. Construa dois Geradores Mofados
+85_B,9. Melhore para Cama 3 Estrelas
+86_B,10. Possua um Canhão Fortificado
+87_B,11. Construa uma Mina de Bronze
+88_B,Ir comprar na loja
+89_B,Pode ser construído
+90_B,Construído
+91_B,Melhoria grátis
+92_B,Quando a porta estiver sob ataque, causa dano ao zumbi de 1%\n do PV máx. a cada segundo
+93_B,Básico
+94_B,Recursos
+95_B,Não há projetos de construção suficientes. Compre mais na loja.
+96_B,Número máx. de prédios atingido
+97_B,Requer:
+98_B,O prédio foi destruído
+99_B,Não há moedas ou energia suficientes. Melhore a cama e o dispositivo de energia
+100_B,Moedas insuficientes. Melhore sua cama
+101_B,Energia insuficiente. Melhore seu gerador
+102_B,Besta Leve
+103_B,Besta de Exorcismo
+104_B,Besta Pesada
+105_B,Canhão de Exorcismo
+106_B,Canhão Fortificado
+107_B,Canhão de Aço
+108_B,Canhão Avançado
+109_B,Canhão Flamejante
+110_B,Perfurador de Armadura
+111_B,Bomba Laser
+112_B,Canhão Sagrado
+113_B,Canhão do Trovão
+114_B,Canhão Divino
+115_B,Cama Esfarrapada
+116_B,Cama Molhada
+117_B,Cama Rígida
+118_B,Cama Padrão
+119_B,Cama Quente
+120_B,Cama de Luxo
+121_B,Cama 3 Estrelas
+122_B,Cama 4 Estrelas
+123_B,Cama 5 Estrelas
+124_B,Cama Suprema
+125_B,Portão de Ferro 1
+126_B,Porta de Aço 1
+127_B,Porta de Liga Metálica 1
+128_B,Gerador Antigo
+129_B,Gerador GBG
+130_B,Gerador QS5
+131_B,Gerador Redbox
+132_B,Gerador Principal
+133_B,Mina de Cobre
+134_B,Mina de Prata
+135_B,Mina de Ouro
+136_B,Mina de Diamantes
+137_B,Geladeira congelada
+138_B,Armadilha de Zumbis
+139_B,Console de Exorcismo
+140_B,Máquina de Reparo
+141_B,Escudo
+142_B,Hawkeye
+143_B,Acelerador
+144_B,Acelerador de Velocidade de ATQ
+145_B,ATQ:
+146_B,Alcance do ATQ:
+147_B,Requer:
+148_B,Gerador Mofado
+149_B,Gerador Antigo
+150_B,Gerador Gasto
+151_B,Gerador Antigo
+152_B,Gerador Clássico
+153_B,Gerador NSN
+154_B,Produção:
+155_B,Moedas
+156_B,Portão de Ferro
+157_B,Porta de Aç
+158_B,Porta de Vibrânio
+159_B,PV:
+160_B,Energia
+161_B,Efeito:
+162_B,Chance de 30% de abalar as instalações por 3 segundos quando o zumbi liberar essa habilidade
+163_B,Reduz a velocidade de ataque do zumbi em 20%
+164_B,Quando o zumbi tenta fugir, o prende por 2 segundos
+165_B,Quando a porta estiver sob ataque, causa dano ao zumbi de 1%\n de seu PV máx. a cada segundo
+166_B,Quando o PV do zumbi for inferior a 20%, causa dano ao zumbi\n de 10% de seu PV máx.
+167_B,Restaura a resistência da porta em 2% por segundo. Sem limite de distância para restauração.
+168_B,Quando a resistência da porta for inferior a 30%, um escudo de energia invencível será gerado por 3s
+169_B,A torre gera moedas durante um ataque, e a quantidade de moedas geradas depende do seu nível
+170_B,Aumenta o alcance do ataque da torre em 20%
+171_B,Aumenta a velocidade de ataque da torre em 50%
+172_B,Aumenta a velocidade de ataque quando um inimigo se aproxima
+173_B,Artefato de Exorcismo
+174_B,Armadilha de Zumbis
+175_B,Nenhum anúncio disponível
+176_B,Falha ao reproduzir o vídeo
+177_B,Máximo de tentativas de recompensa atingido hoje
+178_B,Falha ao baixar a nova versão
+179_B,Aviso de atualização
+180_B,A nova versão está pronta. Deseja reiniciar o aplicativo?
+181_B,Você
+182_B,Já há alguém lá dentro. Escolha outro quarto.
+183_B,A porta foi destruída!
+184_B,O zumbi está furioso
+185_B,O zumbi está em fúria
+186_B,O zumbi ativou um escudo
+187_B,O zumbi está escapando
+188_B,O zumbi atingiu: Nível 
+189_B,O jogador:
+190_B,O zumbi foi derrotado por um jogador misterioso
+191_B,O zumbi foi derrotado por
+192_B,Habilidades
+193_B,Bloqueado
+194_B,O Zumbi subiu de nível
+195_B,foi eliminado
+196_B,Negociação com sucesso
+197_B,Assistindo aos anúncios com muita frequência. Tente novamente mais tarde!
+198_B,O zumbi entrou no dormitório
+199_B,Você concluiu todas as tarefas. Faça o seu melhor no jogo
+200_B,Lembrete: Apenas uma chance de usá-lo!!!
+201_B,Remova o prédio atual e recupere uma certa quantidade de recursos
+202_B,Remover
+203_B,O prédio atingiu o nível máx.
+204_B,desafio 3 vezes
+205_B,Desbloqueie permanentemente o modo fantasma
+206_B,Melhor recompensa após vezes
+207_B,Melhor recompensa desta vez
+208_B,Faça login todos os dias para obter 1 sorteio grátis
+209_B,junte-se ao jogo
+210_B,Você obtém
+211_B,Prêmio de consolação
+212_B,ter:
+213_B,As pessoas no dormitório adormeceram, vão e devoram seus sonhos
+214_B,Processo de ordens, por favor espera
+215_B,Clique frequentemente!
