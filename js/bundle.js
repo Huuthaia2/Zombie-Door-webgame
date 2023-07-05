@@ -13050,7 +13050,7 @@
             console.log("showReward");
 		this.successFunc = t, this.failFunc = e, 
             this.successFunc && this.successFunc()
-            Unity.call("showReward");
+            //Unity.call("showReward");
             return;
             E.Instance.showRewardedVideo(() => {
 				this.successFunc && this.successFunc()
@@ -13061,8 +13061,8 @@
 		adViewed(t) {}
 		InterstitialAdShow() {
             console.log("showInter");
-            Unity.call("showInter"); 
-			E.Instance.showInterstitial()
+            //Unity.call("showInter"); 
+			//E.Instance.showInterstitial()
 		}
 		gamePause() {
 			Laya.timer.pause()
@@ -13072,12 +13072,12 @@
 		}
 		showBanner() {
             console.log("showBanner");
-			E.Instance.showBanner()
+			//E.Instance.showBanner()
            //Unity.call("showBanner"); 
 		}
 		hideBanner() {
             console.log("hideBanner");
-			E.Instance.hideBanner()
+			//E.Instance.hideBanner()
             //Unity.call("hideBanner"); 
 		}
 		loadExelInfo() {
